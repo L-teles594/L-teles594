@@ -20,6 +20,5 @@
 <div> 
   <a href="https://br.linkedin.com/in/lucas-teles-20240b197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/L-teles594/L-teles594/blob/output/github-contribution-grid-snake.svg)
 
 </div>
